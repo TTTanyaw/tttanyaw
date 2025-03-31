@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Tanya 👋
 
-<!--
-**TTTanyaw/tttanyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m currently a first-year MS Biostatistics graduate student at UCLA, with a background in Statistics and Economics from UIUC. My passion lies at the intersection of data science and healthcare, where I apply my skills in statistical analysis, machine learning, and computational modeling to solve real-world problems.
 
-Here are some ideas to get you started:
+🎓 **Education:**  
+MS in Biostatistics, University of California, Los Angeles (UCLA)  
+BS in Statistics and Economics, University of Illinois at Urbana-Champaign (UIUC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Skills:**  
+Programming Languages: Proficient in Python, R, SQL, and SAS   
+Tools & Technologies: Experienced with Jupyter Notebook, Google Colab, Git, and major data science libraries, including pandas, scikit-learn, TensorFlow, and NumPy  
+
+📫 **How to reach me:**  
+LinkedIn: linkedin.com/in/yutong-wang-145520223  
+Email: tttanyawyt@gmail.com
+
+Feel free to explore my projects and don't hesitate to reach out if you want to discuss collaborations or opportunities!
+
